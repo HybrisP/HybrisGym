@@ -1,1 +1,6 @@
 @import 'bootstrap';
+
+body {
+    background-image: url('https://papers.co/wallpaper/papers.co-vu90-texture-metal-dark-gray-pattern-41-iphone-wallpaper.jpg');
+    background-size: 100%;
+}
